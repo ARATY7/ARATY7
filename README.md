@@ -9,19 +9,11 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,express,nextjs,tailwind,php,java,html,css,vite,idea&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ARATY7&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARATY7&theme=vue-dark&hide_border=false" alt="GitHub Streak Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARATY7&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARATY7&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="height: 200px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARATY7&theme=vue-dark&hide_border=false" alt="GitHub Streak Stats" style="height: 200px;" />
+</div>
+
 
 ---
 
