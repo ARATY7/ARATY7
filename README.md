@@ -11,8 +11,8 @@
 
 # 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=donut" alt="Top Languages" style="height: 160px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henchoznoe&theme=vue-dark&hide_border=false" alt="GitHub Streak Stats" style="height: 160px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="Top Languages" style="height: 250px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henchoznoe&theme=vue-dark&hide_border=false" alt="GitHub Streak Stats" style="height: 200px;" />
 </div>
 
 ---
