@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 My name is Noé Henchoz and I'm 19 years old.<br>
-🎓 I'm currently in the final year of my IT apprenticeship.<br>
+🎓 I just finished my final year of my IT apprenticeship.<br>
 🌱 I’m currently learning Web full-stack development with React, Next, Tailwind, Node and TypeScript.
 
 ## 🌐 Socials:
