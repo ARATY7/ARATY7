@@ -2,6 +2,8 @@ name: Update README every minutes
 
 on:
   push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: '* * * * *'
@@ -9,15 +11,19 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [14.x]
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node.js 14.x
         uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: "14.x"
+      - name: Cache
+        uses: actions/cache/@v3
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Update README.md file
         run: |
           node index.js > README.md
@@ -32,5 +38,4 @@ jobs:
           signoff: false
           message: 'Update README.md file'
         env:
-          # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
