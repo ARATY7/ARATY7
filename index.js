@@ -30,7 +30,7 @@ function generateNewREADME() {
 }
 
 function getTodayDate() {
-  return today.toDateString();
+  return today.toLocaleDateString('en');
 }
 
 function getDBNWSentence() {
