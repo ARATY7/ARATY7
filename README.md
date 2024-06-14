@@ -1,18 +1,19 @@
-# 💫 About Me:
-👨‍💻 My name is Noé Henchoz and I'm 19 years old.<br>
-🎓 I just finished my final year of my IT apprenticeship.<br>
-🌱 I’m currently learning Web full-stack development with React, Next, Tailwind, Node and TypeScript.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henchoznoe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henchoznoe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/noehenchoz) 
-
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,express,nextjs,tailwind,php,java,html,css,vite,idea&theme=dark)](https://skillicons.dev)
-
-# 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)]([https://visitcount.itsvg.in](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true))
+## 😏 About Me
+* My name is Noé Henchoz and I'm 19 years old.
+* I just finished my final year of my IT apprenticeship. 💻
+* I’m learning Web full-stack development with Next.js, React.js, TailwindCSS, Express.js and TypeScript.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=henchoznoe&icon=0&color=9)](https://visitcount.itsvg.in)
+## 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=next,react,ts,express,php,java,tailwind,idea&theme=light)](https://skillicons.dev)
 
+---
+
+## 📊 GitHub Stats
+[![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&langs_count=4)](https://visitcount.itsvg.in)
+
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henchoznoe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henchoznoe)
