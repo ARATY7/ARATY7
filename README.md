@@ -21,9 +21,3 @@
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henchoznoe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henchoznoe)
-
----
-
-Last update on 06/14/2024, 12:50:30 PM
-
-**200 day before 2025 ⏱** !!
