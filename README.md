@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,express,nextjs,tailwind,php,java,html,css,vite,idea&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)](https://visitcount.itsvg.in)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)]([https://visitcount.itsvg.in](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true))
 
 ---
 
