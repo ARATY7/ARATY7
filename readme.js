@@ -1,5 +1,4 @@
-module.exports = `
-## 😏 About Me
+module.exports = `## 😏 About Me
 
 * My name is Noé Henchoz and I'm 19 years old.
 * I just finished my final year of my IT apprenticeship. 💻
