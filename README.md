@@ -1,8 +1,8 @@
 ## 😏 About Me
 
 * My name is Noé Henchoz and I'm 20 years old.
-* I just finished my final year of my IT apprenticeship. 💻
-* I’m learning Web full-stack development with Next.js, React.js, TailwindCSS, Express.js and TypeScript.
+* I'm a computer scientist specialised in programming 💻
+* In my freetime, I’m learning Web full-stack development with Next.js, React.js, TailwindCSS, Express.js and TypeScript.
 
 ---
 
