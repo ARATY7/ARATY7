@@ -8,7 +8,7 @@
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,ts,express,php,java,tailwind,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,express,php,java,tailwind,idea&theme=light)](https://skillicons.dev)
 
 ---
 
