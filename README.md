@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-[![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=true&include_all_commits=true&langs_count=3)](https://visitcount.itsvg.in)
+[![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=true&include_all_commits=true&langs_count=3)]([https://visitcount.itsvg.in](https://github-readme-stats.vercel.app/api/top-langs/?username=henchoznoe&theme=vue-dark&hide_border=true&include_all_commits=true&langs_count=3))
 
 ---
 
